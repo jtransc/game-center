@@ -1,0 +1,11 @@
+{
+	"name": "jtransc-game-center",
+	"url": "https://github.com/jtransc/game-center",
+	"license": "MIT",
+	"tags": [],
+	"description": "Adds iOS GameCenter support",
+	"version": "1.0.0",
+	"releasenote": "Initial release",
+	"contributors": [ "singmajesty", "fbricker", "SergeyLabutin" ],
+	"dependencies": {}
+}

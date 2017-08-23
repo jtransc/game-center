@@ -1,0 +1,11 @@
+.DS_Store
+ndll/*/*.a
+ndll/*/*.ndll
+ndll/*/*.hash
+project/obj/*
+
+.idea/
+*.ipr
+*.iws
+*.iml
+out/
